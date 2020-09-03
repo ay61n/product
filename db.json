@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Klavye",
+      "description": "Mekanik RGB Color",
+      "picture": "1.jpg",
+      "detail": "Klavyenin Detay Bilgileri"
+    },
+    {
+      "id": 2,
+      "name": "Fare",
+      "description": "Çok Fonksiyonlu",
+      "picture": "2.jpg",
+      "detail": "Farenin Detay Bilgileri"
+    },
+    {
+      "id": 3,
+      "name": "Monitör",
+      "description": "4K 120Hz Oyuncu Monitörü",
+      "picture": "3.jpg",
+      "detail": "Monitör Detay Bilgileri"
+    },
+    {
+      "id": 4,
+      "name": "Ekran Kartı",
+      "description": "Ati Rodeon X8950 Ultra",
+      "picture": "4.jpg",
+      "detail": "Ekran Kartı Detay Bilgileri"
+    },
+    {
+      "id": 5,
+      "name": "İşlemci",
+      "description": "AMD Ryzen 5",
+      "picture": "5.jpg",
+      "detail": "İşlemci Detay Bilgileri"
+    },
+    {
+      "id": 6,
+      "name": "Ram",
+      "description": "DDR4 3200Mhz XPS",
+      "picture": "6.jpg",
+      "detail": "Ram Detay Bilgileri"
+    }
+    
+  ]
+}
