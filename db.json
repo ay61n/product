@@ -43,5 +43,70 @@
       "detail": "Ram Detay Bilgileri"
     }
     
+  ],
+  "productComments": [
+    {
+      "id": 1,
+      "nameSurname": "AASAD",
+      "title": "Mekanik RGB Color",
+      "comment": "Yorum 1111",
+      "productID": 1
+    },
+    {
+      "id": 2,
+      "nameSurname": "DFDS",
+      "title": "Mekanik RGB Color",
+      "comment": "Yorum 2222",
+      "productID": 1
+    },
+    {
+      "id": 3,
+      "nameSurname": "KGDGFlavye",
+      "title": "Mekanik RGB Color",
+      "comment": "Yorum 33333",
+      "productID": 1
+    },
+    {
+      "id": 4,
+      "nameSurname": "FDGFD",
+      "title": "Mekanik RGB Color",
+      "comment": "Yorum 4444",
+      "productID": 3
+    },
+    {
+      "id": 5,
+      "nameSurname": "DFCCV",
+      "title": "Mekanik RGB Color",
+      "comment": "Yorum 55555",
+      "productID": 3
+    },
+    {
+      "id": 6,
+      "nameSurname": "WEFVCV",
+      "title": "Mekanik RGB Color",
+      "comment": "Yorum 66666",
+      "productID": 3
+    },
+    {
+      "id": 7,
+      "nameSurname": "EWREWR",
+      "title": "Mekanik RGB Color",
+      "comment": "Yorum 7777",
+      "productID": 4
+    },
+    {
+      "id": 8,
+      "nameSurname": "WRWQR",
+      "title": "Mekanik RGB Color",
+      "comment": "Yorum 8888",
+      "productID": 5
+    },
+    {
+      "id": 8,
+      "nameSurname": "SDFSDF",
+      "title": "Mekanik RGB Color",
+      "comment": "Yorum 9999",
+      "productID": 6
+    }
   ]
 }
