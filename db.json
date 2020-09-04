@@ -5,42 +5,48 @@
       "name": "Klavye",
       "description": "Mekanik RGB Color",
       "picture": "1.jpg",
-      "detail": "Klavyenin Detay Bilgileri"
+      "detail": "Klavyenin Detay Bilgileri",
+      "cost":150
     },
     {
       "id": 2,
       "name": "Fare",
       "description": "Çok Fonksiyonlu",
       "picture": "2.jpg",
-      "detail": "Farenin Detay Bilgileri"
+      "detail": "Farenin Detay Bilgileri",
+      "cost":23
     },
     {
       "id": 3,
       "name": "Monitör",
       "description": "4K 120Hz Oyuncu Monitörü",
       "picture": "3.jpg",
-      "detail": "Monitör Detay Bilgileri"
+      "detail": "Monitör Detay Bilgileri",
+      "cost":780
     },
     {
       "id": 4,
       "name": "Ekran Kartı",
       "description": "Ati Rodeon X8950 Ultra",
       "picture": "4.jpg",
-      "detail": "Ekran Kartı Detay Bilgileri"
+      "detail": "Ekran Kartı Detay Bilgileri",
+      "cost":3435
     },
     {
       "id": 5,
       "name": "İşlemci",
       "description": "AMD Ryzen 5",
       "picture": "5.jpg",
-      "detail": "İşlemci Detay Bilgileri"
+      "detail": "İşlemci Detay Bilgileri",
+      "cost":2100
     },
     {
       "id": 6,
       "name": "Ram",
       "description": "DDR4 3200Mhz XPS",
       "picture": "6.jpg",
-      "detail": "Ram Detay Bilgileri"
+      "detail": "Ram Detay Bilgileri",
+      "cost":670
     }
     
   ],
