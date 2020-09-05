@@ -6,7 +6,10 @@
       "description": "Mekanik RGB Color",
       "picture": "1.jpg",
       "detail": "Klavyenin Detay Bilgileri",
-      "cost":150
+      "cost":150,
+      "subTotal":150,
+      "count":1
+      
     },
     {
       "id": 2,
@@ -14,7 +17,9 @@
       "description": "Çok Fonksiyonlu",
       "picture": "2.jpg",
       "detail": "Farenin Detay Bilgileri",
-      "cost":23
+      "cost":23,
+      "subTotal":23,
+      "count":1
     },
     {
       "id": 3,
@@ -22,7 +27,9 @@
       "description": "4K 120Hz Oyuncu Monitörü",
       "picture": "3.jpg",
       "detail": "Monitör Detay Bilgileri",
-      "cost":780
+      "cost":780,
+      "subTotal":780,
+      "count":1
     },
     {
       "id": 4,
@@ -30,7 +37,9 @@
       "description": "Ati Rodeon X8950 Ultra",
       "picture": "4.jpg",
       "detail": "Ekran Kartı Detay Bilgileri",
-      "cost":3435
+      "cost":3435,
+      "subTotal":3435,
+      "count":1
     },
     {
       "id": 5,
@@ -38,7 +47,9 @@
       "description": "AMD Ryzen 5",
       "picture": "5.jpg",
       "detail": "İşlemci Detay Bilgileri",
-      "cost":2100
+      "cost":2100,
+      "subTotal":2100,
+      "count":1
     },
     {
       "id": 6,
@@ -46,7 +57,9 @@
       "description": "DDR4 3200Mhz XPS",
       "picture": "6.jpg",
       "detail": "Ram Detay Bilgileri",
-      "cost":670
+      "cost":670,
+      "subTotal":670,
+      "count":1
     }
     
   ],
